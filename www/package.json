@@ -1,0 +1,37 @@
+{
+  "name": "math-o-nomics",
+  "version": "0.0.1",
+  "description": "Maths Application",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darshan57/Math-o-nomics.git"
+  },
+  "dependencies": {
+    "backbone": "^1.3.3",
+    "backbone.marionette": "^3.2.0",
+    "backbone.radio": "^2.0.0",
+    "hammerjs": "^2.0.8",
+    "jquery": "^3.1.1",
+    "material-icons": "^0.1.0",
+    "materialize-css": "^0.98.0",
+    "requirejs": "^2.3.3",
+    "text": "github:requirejs/text",
+    "underscore": "^1.8.3",
+    "velocity-animate": "^1.4.3"
+  },
+  "devDependencies": {
+    "amd-optimize": "^0.6.1",
+    "eslint": "^3.17.0",
+    "eslint-config-google": "^0.7.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^2.0.1",
+    "pump": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darshan.BS",
+  "license": "ISC"
+}
